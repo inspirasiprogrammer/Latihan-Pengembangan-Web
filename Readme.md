@@ -214,17 +214,6 @@ img { border-radius: 6px; width: 100%; }
 
 ---
 
-## 🧪 Kriteria Penilaian
-| Aspek | Bobot | Deskripsi |
-|--------|--------|------------|
-| Fungsionalitas Backend | 25% | Rute API berfungsi sesuai spesifikasi |
-| Fungsionalitas Frontend | 25% | Data foto & rating tampil dan interaktif |
-| Integrasi | 20% | Fetch API GET & POST berjalan lancar |
-| Manipulasi DOM | 15% | Elemen HTML dinamis dan rapi |
-| Kualitas Kode | 15% | Struktur dan sintaks terorganisir |
-
----
-
 ## 📚 Ringkasan
 Mahasiswa akan memahami bagaimana:
 - Mengambil data dari API eksternal.
